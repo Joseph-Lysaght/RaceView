@@ -1,0 +1,27 @@
+#main_Container {
+	
+}
+
+#body {
+	background:#7b7b7b;
+}
+
+div.dataTables_info {
+  color: white !important;
+}
+
+div.dataTables_length {
+  color: white !important;
+}
+
+.btn-success {
+    background-color: #EFFF01 !important;
+	border-color: #EFFF01 !important;
+	color: #000 !important;
+}
+
+.btn-primary {
+	background-color: #FFF !important;
+	border-color: #FFF !important;
+	color: #000 !important;
+}			  
